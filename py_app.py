@@ -1,5 +1,5 @@
 from email.message import EmailMessage
-from anysht import password
+from passfile import password
 import ssl
 import smtplib
 
